@@ -1,0 +1,20 @@
+
+.card-header{
+    background-color: darkslategray;
+    font-family: 'Open Sans', monospace;
+    border-bottom: thick double darkolivegreen
+
+};
+
+.col{
+    background: rgba(205, 214, 219, 0.3)
+};
+.card-body{
+    color: darkolivegreen;
+}
+
+.card{
+    border: thick double darkolivegreen;
+    background-color: cadetblue;
+    border-radius: 15px;
+}
